@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cybercloudboy
+- 👋 Hi, I’m @chanks
 - 👀 I’m interested in ... data science 
 - 🌱 I’m currently learning ... R
 - 💞️ I’m looking to collaborate on ...
